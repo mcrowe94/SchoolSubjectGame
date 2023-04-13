@@ -1,0 +1,15 @@
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\bin\Debug\net6.0\SchoolSubjectGame.exe
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\bin\Debug\net6.0\SchoolSubjectGame.deps.json
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\bin\Debug\net6.0\SchoolSubjectGame.runtimeconfig.json
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\bin\Debug\net6.0\SchoolSubjectGame.dll
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\bin\Debug\net6.0\SchoolSubjectGame.pdb
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.csproj.AssemblyReference.cache
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.AssemblyInfoInputs.cache
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.AssemblyInfo.cs
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.csproj.CoreCompileInputs.cache
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.dll
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\refint\SchoolSubjectGame.dll
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.pdb
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\SchoolSubjectGame.genruntimeconfig.cache
+C:\Users\mcrow\OneDrive\Desktop\ExerciseReposTC\SchoolSubjectGame\obj\Debug\net6.0\ref\SchoolSubjectGame.dll
